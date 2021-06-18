@@ -40,7 +40,7 @@
     </dependencies>
 
     <properties>
-        <intellij.annotations.version>16.0.2</intellij.annotations.version>
+        <intellij.annotations.version>16.0.3</intellij.annotations.version>
         <assertj-core.version>3.9.1</assertj-core.version>
     </properties>
 
