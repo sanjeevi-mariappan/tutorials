@@ -92,7 +92,7 @@
 
     <properties>
         <!-- persistence -->
-        <hibernate.version>5.2.17.Final</hibernate.version>
+        <hibernate.version>5.5.0.Final</hibernate.version>
 
         <!-- testing -->
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
