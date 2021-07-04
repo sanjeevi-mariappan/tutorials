@@ -1,2 +1,2 @@
-FROM ubuntu 
+FROM ubuntu:20.10 
 ENTRYPOINT ["/bin/bash", "-c", "echo hello"]
