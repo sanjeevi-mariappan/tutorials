@@ -87,7 +87,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <jsch.version>0.1.55</jsch.version>
-        <apache-mina.version>2.5.1</apache-mina.version>
+        <apache-mina.version>2.7.0</apache-mina.version>
     </properties>
 
 </project>
