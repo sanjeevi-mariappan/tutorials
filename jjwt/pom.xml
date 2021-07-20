@@ -44,7 +44,7 @@
     </dependencies>
 
     <properties>
-        <jjwt.version>0.7.0</jjwt.version>
+        <jjwt.version>0.9.1</jjwt.version>
     </properties>
 
 </project>
