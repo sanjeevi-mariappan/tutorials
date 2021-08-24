@@ -318,7 +318,7 @@
         <kryo.version>4.0.0</kryo.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <protobuf-java.version>3.1.0</protobuf-java.version>
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.18</xstream.version>
 
         <!-- util -->
         <guava.version>20.0</guava.version>
