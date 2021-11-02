@@ -132,7 +132,7 @@
         <caffeine.version>2.5.5</caffeine.version>
         <findbugs.version>3.0.2</findbugs.version>
         <fugue.version>4.5.1</fugue.version>
-        <jnats.version>1.0</jnats.version>
+        <jnats.version>2.0.0</jnats.version>
         <jctools.version>2.1.2</jctools.version>
         <jmh.version>1.19</jmh.version>
     </properties>
