@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <stripe.version>4.2.0</stripe.version>
+        <stripe.version>20.91.0</stripe.version>
     </properties>
 
 </project>
