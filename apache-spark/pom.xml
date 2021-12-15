@@ -100,11 +100,11 @@
     </repositories>
 
     <properties>
-        <org.apache.spark.spark-core.version>2.3.0</org.apache.spark.spark-core.version>
-        <org.apache.spark.spark-sql.version>2.3.0</org.apache.spark.spark-sql.version>
-        <org.apache.spark.spark-streaming.version>2.3.0</org.apache.spark.spark-streaming.version>
-        <org.apache.spark.spark-mllib.version>2.3.0</org.apache.spark.spark-mllib.version>
-        <org.apache.spark.spark-graphx.version>2.3.0</org.apache.spark.spark-graphx.version>
+        <org.apache.spark.spark-core.version>2.4.6</org.apache.spark.spark-core.version>
+        <org.apache.spark.spark-sql.version>2.4.6</org.apache.spark.spark-sql.version>
+        <org.apache.spark.spark-streaming.version>2.4.6</org.apache.spark.spark-streaming.version>
+        <org.apache.spark.spark-mllib.version>2.4.6</org.apache.spark.spark-mllib.version>
+        <org.apache.spark.spark-graphx.version>2.4.6</org.apache.spark.spark-graphx.version>
         <graphframes.version>0.7.0-spark2.4-s_2.11</graphframes.version>
         <org.apache.spark.spark-streaming-kafka.version>2.3.0</org.apache.spark.spark-streaming-kafka.version>
         <com.datastax.spark.spark-cassandra-connector.version>2.3.0</com.datastax.spark.spark-cassandra-connector.version>
