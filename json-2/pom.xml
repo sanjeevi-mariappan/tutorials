@@ -97,7 +97,7 @@
         <dependency>
             <groupId>com.github.jsonld-java</groupId>
             <artifactId>jsonld-java</artifactId>
-            <version>0.13.0</version>
+            <version>0.13.3</version>
             <exclusions>
                 <exclusion>
                     <artifactId>jackson-core</artifactId>
@@ -143,7 +143,7 @@
     									</goals>
     								</pluginExecutionFilter>
     								<action>
-    									<ignore></ignore>
+    									<ignore/>
     								</action>
     							</pluginExecution>
     						</pluginExecutions>
