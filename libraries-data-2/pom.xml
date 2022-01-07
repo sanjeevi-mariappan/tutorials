@@ -163,13 +163,13 @@
     </repositories>
 
     <properties>
-        <flink.version>1.5.0</flink.version>
+        <flink.version>1.13.3</flink.version>
         <hll.version>1.6.0</hll.version>
         <crdt.version>0.1.0</crdt.version>
         <unit-ri.version>1.0.3</unit-ri.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <jackson.version>2.9.8</jackson.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>5.2.19.RELEASE</spring.version>
         <suanshu.version>4.0.0</suanshu.version>
         <derive4j.version>1.1.0</derive4j.version>
         <assertj.version>3.6.2</assertj.version>
