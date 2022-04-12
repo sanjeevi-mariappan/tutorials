@@ -153,7 +153,7 @@
     <properties>
         <mockito-kotlin.version>1.5.0</mockito-kotlin.version>
         <kodein.version>4.1.0</kodein.version>
-        <klaxon.version>3.0.4</klaxon.version>
+        <klaxon.version>5.6</klaxon.version>
         <khttp.version>0.1.0</khttp.version>
         <commons-math3.version>3.6.1</commons-math3.version>
         <junit.platform.version>1.1.1</junit.platform.version>
@@ -164,7 +164,7 @@
         <byte-buddy.version>1.8.13</byte-buddy.version>
         <objenesis.version>2.6</objenesis.version>
         <rxkotlin.version>2.3.0</rxkotlin.version>
-        <arrow-core.version>0.7.3</arrow-core.version>
+        <arrow-core.version>0.11.0</arrow-core.version>
         <spek.version>1.1.5</spek.version>
     </properties>
 
