@@ -85,7 +85,7 @@
         <kovenant.version>3.3.0</kovenant.version>
         <guava.version>27.1-jre</guava.version>
         <mockk.version>1.9.3</mockk.version>
-        <kotlinx-collections-immutable.version>0.1</kotlinx-collections-immutable.version>
+        <kotlinx-collections-immutable.version>0.3</kotlinx-collections-immutable.version>
         <rxkotlin.version>2.3.0</rxkotlin.version>
     </properties>
 
