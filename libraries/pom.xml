@@ -382,7 +382,7 @@
         <pact.version>3.5.0</pact.version>
         <org.hamcrest.java-hamcrest.version>2.0.0.0</org.hamcrest.java-hamcrest.version>
         <protonpack.version>1.15</protonpack.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.33.3</google-api.version>
         <jets3t-version>0.9.4.0006L</jets3t-version>
         <hamcrest-all.version>1.3</hamcrest-all.version>
         <javax.jdo.version>3.2.0-m7</javax.jdo.version>
