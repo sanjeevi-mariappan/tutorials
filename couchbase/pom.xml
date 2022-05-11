@@ -68,7 +68,7 @@
     </dependencies>
 
     <properties>
-        <couchbase.client.version>2.5.0</couchbase.client.version>
+        <couchbase.client.version>2.7.23</couchbase.client.version>
         <spring-framework.version>4.3.5.RELEASE</spring-framework.version>
     </properties>
 
