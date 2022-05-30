@@ -49,7 +49,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.release.version>11</maven.release.version>
-        <sirix-core.version>0.9.3</sirix-core.version>
+        <sirix-core.version>0.9.6</sirix-core.version>
         <compiler.plugin.version>3.8.0</compiler.plugin.version>
         <asm.version>6.1</asm.version>
     </properties>
