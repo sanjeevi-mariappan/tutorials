@@ -51,7 +51,7 @@
     </build>
 
     <properties>
-        <jmh-core.version>1.19</jmh-core.version>
+        <jmh-core.version>1.35</jmh-core.version>
         <jmh-generator-annprocess.version>1.19</jmh-generator-annprocess.version>
         <assertj.version>3.6.1</assertj.version>
     </properties>
