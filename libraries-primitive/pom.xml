@@ -44,7 +44,7 @@
     </dependencies>
 
     <properties>
-        <fastutil.version>8.2.2</fastutil.version>
+        <fastutil.version>8.5.8</fastutil.version>
         <junit.version>4.12</junit.version>
         <jmh.version>1.19</jmh.version>
         <eclipse-collections.version>10.0.0</eclipse-collections.version>
