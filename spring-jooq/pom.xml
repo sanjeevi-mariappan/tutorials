@@ -157,7 +157,7 @@
                                     <directory>src/main/java</directory>
                                 </target>
                                 <database>
-                                    <inputCatalog></inputCatalog>
+                                    <inputCatalog/>
                                 </database>
                             </generator>
                         </configuration>
@@ -190,7 +190,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -202,7 +202,7 @@
     </build>
 
     <properties>
-        <org.jooq.version>3.12.4</org.jooq.version>
+        <org.jooq.version>3.16.6</org.jooq.version>
         <lifecycle-mapping.version>1.0.0</lifecycle-mapping.version>
         <sql-maven-plugin.version>1.5</sql-maven-plugin.version>
         <properties-maven-plugin.version>1.0.0</properties-maven-plugin.version>
