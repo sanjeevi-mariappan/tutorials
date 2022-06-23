@@ -23,6 +23,6 @@
     </dependencies>
 
     <properties>
-        <janino.version>3.0.7</janino.version>
+        <janino.version>3.1.7</janino.version>
     </properties>
 </project>
