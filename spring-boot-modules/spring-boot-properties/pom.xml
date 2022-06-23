@@ -133,7 +133,7 @@
         <guava.version>20.0</guava.version>
         <httpcore.version>4.4.11</httpcore.version>
         <resource.delimiter>@</resource.delimiter>
-        <configuration-processor.version>2.2.4.RELEASE</configuration-processor.version>
+        <configuration-processor.version>2.7.0</configuration-processor.version>
 <!--         <start-class>com.baeldung.buildproperties.Application</start-class>  -->
         <start-class>com.baeldung.yaml.MyApplication</start-class>
     </properties>
