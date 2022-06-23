@@ -619,7 +619,7 @@
         <datatables.version>1.10.12</datatables.version>
         <datatables-bs.version>1.10.11</datatables-bs.version>
         <datatables-buttons.version>1.1.2</datatables-buttons.version>
-        <datatables-buttons-bs.version>1.1.2</datatables-buttons-bs.version>
+        <datatables-buttons-bs.version>1.5.6</datatables-buttons-bs.version>
         <datatables-responsive.version>2.0.2</datatables-responsive.version>
         <datatables-responsive-bs.version>2.0.2</datatables-responsive-bs.version>
         <datatables-select.version>1.1.2</datatables-select.version>
