@@ -71,7 +71,7 @@
         <commons-chain.version>1.2</commons-chain.version>
         <assertj.version>3.6.2</assertj.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
-        <xchart-version>3.5.2</xchart-version>
+        <xchart-version>3.8.1</xchart-version>
         <common-math3.version>3.6.1</common-math3.version>
         <common-io.version>2.5</common-io.version>
     </properties>
