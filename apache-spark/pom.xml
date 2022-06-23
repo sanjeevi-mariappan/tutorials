@@ -101,7 +101,7 @@
 
     <properties>
         <org.apache.spark.spark-core.version>2.3.0</org.apache.spark.spark-core.version>
-        <org.apache.spark.spark-sql.version>2.3.0</org.apache.spark.spark-sql.version>
+        <org.apache.spark.spark-sql.version>2.4.8</org.apache.spark.spark-sql.version>
         <org.apache.spark.spark-streaming.version>2.3.0</org.apache.spark.spark-streaming.version>
         <org.apache.spark.spark-mllib.version>2.3.0</org.apache.spark.spark-mllib.version>
         <org.apache.spark.spark-graphx.version>2.3.0</org.apache.spark.spark-graphx.version>
