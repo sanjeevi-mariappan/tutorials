@@ -76,7 +76,7 @@
     </build>
 
     <properties>
-        <openjdk.jmh.version>1.19</openjdk.jmh.version>
+        <openjdk.jmh.version>1.35</openjdk.jmh.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
         <jol-core.version>0.10</jol-core.version>
         <maven-assembly-plugin.version>3.2.0</maven-assembly-plugin.version>
