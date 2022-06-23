@@ -27,6 +27,6 @@
     </dependencies>
 
     <properties>
-        <jmh.version>1.19</jmh.version>
+        <jmh.version>1.35</jmh.version>
     </properties>
 </project>
