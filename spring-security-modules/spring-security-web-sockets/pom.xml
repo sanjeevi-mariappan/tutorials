@@ -181,7 +181,7 @@
     </build>
 
     <properties>
-        <hibernate-core.version>5.2.10.Final</hibernate-core.version>
+        <hibernate-core.version>5.6.9.Final</hibernate-core.version>
         <spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
         <logback-classic.version>1.2.3</logback-classic.version>
         <spring-boot-starter-test.version>1.5.10.RELEASE</spring-boot-starter-test.version>
