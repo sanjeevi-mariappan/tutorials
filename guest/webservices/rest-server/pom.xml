@@ -48,7 +48,7 @@
     <properties>
         <jersey-container-servlet.version>2.25.1</jersey-container-servlet.version>
         <rest-assured.version>3.0.3</rest-assured.version>
-        <jersey-media-moxy.version>2.25.1</jersey-media-moxy.version>
+        <jersey-media-moxy.version>2.35</jersey-media-moxy.version>
     </properties>
 
 </project>
