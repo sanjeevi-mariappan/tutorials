@@ -91,7 +91,7 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <openliberty.version>RELEASE</openliberty.version>
         <openliberty.maven.version>2.6.4</openliberty.maven.version>
-        <javaee-web-api.version>8.0</javaee-web-api.version>
+        <javaee-web-api.version>8.0.1</javaee-web-api.version>
         <microprofile-config-api.version>1.3</microprofile-config-api.version>
     </properties>
 
