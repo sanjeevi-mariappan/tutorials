@@ -375,7 +375,7 @@
         <assertj-core.version>3.12.2</assertj-core.version>
         <xmlunit-assertj.version>2.6.3</xmlunit-assertj.version>
         <junit-jupiter.version>5.5.0</junit-jupiter.version>
-        <jmh.version>1.21</jmh.version>
+        <jmh.version>1.35</jmh.version>
         <freemarker.version>2.3.29</freemarker.version>
         <mustache.version>0.9.6</mustache.version>
         <!-- util -->
