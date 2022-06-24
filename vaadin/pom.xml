@@ -179,7 +179,7 @@
         <vaadin-spring-boot-starter.version>13.0.9</vaadin-spring-boot-starter.version>
         <vaadin-server.version>8.8.5</vaadin-server.version>
         <vaadin-push.version>8.8.5</vaadin-push.version>
-        <vaadin-client-compiled.version>8.8.5</vaadin-client-compiled.version>
+        <vaadin-client-compiled.version>8.15.2</vaadin-client-compiled.version>
         <vaadin-themes.version>8.8.5</vaadin-themes.version>
         <jetty.plugin.version>9.3.9.v20160517</jetty.plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
