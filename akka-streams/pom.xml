@@ -27,7 +27,7 @@
     </dependencies>
 
     <properties>
-        <akkastreams.version>2.5.2</akkastreams.version>
+        <akkastreams.version>2.5.32</akkastreams.version>
         <scala.version>2.11</scala.version>
     </properties>
 
