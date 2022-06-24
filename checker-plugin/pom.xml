@@ -87,7 +87,7 @@
         <!-- <typeAnnotationsJavac>${org.checkerframework:compiler:jar}</typeAnnotationsJavac> -->
         <checker-qual.version>2.3.1</checker-qual.version>
         <checker.version>2.3.1</checker.version>
-        <jdk8.version>2.3.1</jdk8.version>
+        <jdk8.version>2.11.1</jdk8.version>
         <checkerframework.compiler.version>2.3.1</checkerframework.compiler.version>
     </properties>
 
