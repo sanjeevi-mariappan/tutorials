@@ -49,7 +49,7 @@
     </build>
 
     <properties>
-        <dsiutils.version>2.6.0</dsiutils.version>
+        <dsiutils.version>2.7.1</dsiutils.version>
         <vavr.version>0.10.2</vavr.version>
         <commons.version>3.9</commons.version>
         <assertj.version>3.6.1</assertj.version>
