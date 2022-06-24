@@ -57,7 +57,7 @@
     </build>
 
     <properties>
-        <antlr.version>4.7.1</antlr.version>
+        <antlr.version>4.10.1</antlr.version>
         <mojo.version>3.0.0</mojo.version>
     </properties>
 
