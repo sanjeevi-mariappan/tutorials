@@ -40,7 +40,7 @@
     </dependencies>
 
     <properties>
-        <openjdk.jmh.version>1.19</openjdk.jmh.version>
+        <openjdk.jmh.version>1.35</openjdk.jmh.version>
         <assertj.version>3.11.1</assertj.version>
         <jol-core.version>0.10</jol-core.version>
     </properties>
