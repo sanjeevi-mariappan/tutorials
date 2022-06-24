@@ -193,7 +193,7 @@
 
         <uri-template.version>0.9</uri-template.version>
         <libphonenumber.version>8.0.0</libphonenumber.version>
-        <joda-time.version>2.9.6</joda-time.version>
+        <joda-time.version>2.10.14</joda-time.version>
         <msg-simple.version>1.1</msg-simple.version>
         <btf.version>1.2</btf.version>
         <groovy.version>2.4.7</groovy.version>
