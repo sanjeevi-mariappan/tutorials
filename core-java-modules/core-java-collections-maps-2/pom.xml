@@ -65,7 +65,7 @@
         <avaitility.version>1.7.0</avaitility.version>
         <eclipse-collections.version>8.2.0</eclipse-collections.version>
         <hppc.version>0.7.2</hppc.version>
-        <fastutil.version>8.1.0</fastutil.version>
+        <fastutil.version>8.5.8</fastutil.version>
         <assertj.version>3.11.1</assertj.version>
     </properties>
 
