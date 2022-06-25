@@ -70,7 +70,7 @@
 
     <properties>
         <start-class>com.baeldung.TaskDemo</start-class>
-        <bytebuddy.version>1.10.10</bytebuddy.version>
+        <bytebuddy.version>1.12.10</bytebuddy.version>
     </properties>
 
 </project>
