@@ -83,7 +83,7 @@
         <nd4j.version>1.0.0-beta4</nd4j.version>
         <colt.version>1.2.0</colt.version>
         <la4j.version>0.6.0</la4j.version>
-        <jmh.version>1.19</jmh.version>
+        <jmh.version>1.35</jmh.version>
     </properties>
 
 </project>
