@@ -104,7 +104,7 @@
         <spring-mybatis.version>2.0.2</spring-mybatis.version>
         <mybatis.version>3.5.2</mybatis.version>
         <mybatis-spring-boot-starter.version>2.1.0</mybatis-spring-boot-starter.version>
-        <h2.version>1.4.197</h2.version>
+        <h2.version>1.4.198</h2.version>
 
         <!-- testing -->
         <assertj-core.version>3.8.0</assertj-core.version>
