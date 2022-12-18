@@ -28,7 +28,7 @@
     </dependencies>
 
     <properties>
-        <jgroups.version>4.0.10.Final</jgroups.version>
+        <jgroups.version>4.2.22.Final</jgroups.version>
     </properties>
 
 </project>
