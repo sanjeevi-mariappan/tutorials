@@ -139,7 +139,7 @@
     <properties>
         <kafka.version>2.0.0</kafka.version>
         <javapoet.version>1.10.0</javapoet.version>
-        <reflections.version>0.9.11</reflections.version>
+        <reflections.version>0.10.2</reflections.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
         <functionaljava.version>4.8.1</functionaljava.version>
         <resilience4j.version>0.12.1</resilience4j.version>
