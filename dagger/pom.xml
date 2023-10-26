@@ -43,7 +43,7 @@
     </build>
 
     <properties>
-        <dagger.version>2.16</dagger.version>
+        <dagger.version>2.48.1</dagger.version>
     </properties>
 
 </project>
