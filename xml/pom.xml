@@ -360,27 +360,27 @@
     </profiles>
 
     <properties>
-        <dom4j.version>2.1.1</dom4j.version>
+        <dom4j.version>2.1.4</dom4j.version>
         <jaxen.version>1.2.0</jaxen.version>
-        <jdom2.version>2.0.6</jdom2.version>
+        <jdom2.version>2.0.6.1</jdom2.version>
         <joox.version>1.6.2</joox.version>
-        <commons-io.version>2.5</commons-io.version>
-        <commons-collections4.version>4.1</commons-collections4.version>
-        <jibx-version>1.2.4.5</jibx-version>
+        <commons-io.version>2.16.1</commons-io.version>
+        <commons-collections4.version>4.4</commons-collections4.version>
+        <jibx-version>1.4.2</jibx-version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <jaxp-api.version>1.4.2</jaxp-api.version>
         <jaxb-core.version>2.3.0.1</jaxb-core.version>
-        <jaxb-impl.version>2.3.2</jaxb-impl.version>
+        <jaxb-impl.version>2.3.9</jaxb-impl.version>
         <stax-api.version>1.0-2</stax-api.version>
         <assertj-core.version>3.12.2</assertj-core.version>
         <xmlunit-assertj.version>2.6.3</xmlunit-assertj.version>
         <junit-jupiter.version>5.5.0</junit-jupiter.version>
-        <jmh.version>1.21</jmh.version>
-        <freemarker.version>2.3.29</freemarker.version>
-        <mustache.version>0.9.6</mustache.version>
+        <jmh.version>1.37</jmh.version>
+        <freemarker.version>2.3.33</freemarker.version>
+        <mustache.version>0.9.14</mustache.version>
         <!-- util -->
-        <commons-lang3.version>3.5</commons-lang3.version>
-        <commons-lang.version>2.4</commons-lang.version>
+        <commons-lang3.version>3.16.0</commons-lang3.version>
+        <commons-lang.version>2.6</commons-lang.version>
         <java-version>1.8</java-version>
 
         <!-- maven plugins -->
