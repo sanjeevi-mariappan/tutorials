@@ -51,7 +51,7 @@
     </build>
 
     <properties>
-        <ejb.version>3.2</ejb.version>
+        <ejb.version>3.2.2</ejb.version>
     </properties>
 
 </project>
