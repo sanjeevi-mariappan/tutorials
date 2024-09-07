@@ -76,7 +76,7 @@
     </build>
 
     <properties>
-        <thymeleaf.version>3.0.7.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.0.15.RELEASE</thymeleaf.version>
     </properties>
 
 </project>
