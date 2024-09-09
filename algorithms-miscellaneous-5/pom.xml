@@ -62,12 +62,12 @@
     </build>
 
     <properties>
-        <tradukisto.version>1.0.1</tradukisto.version>
+        <tradukisto.version>1.12.1</tradukisto.version>
         <org.assertj.core.version>3.9.0</org.assertj.core.version>
-        <commons-codec.version>1.11</commons-codec.version>
+        <commons-codec.version>1.17.1</commons-codec.version>
         <commons-math3.version>3.6.1</commons-math3.version>
-        <guava.version>28.1-jre</guava.version>
-        <junit.platform.version>1.6.0</junit.platform.version>
+        <guava.version>28.2-jre</guava.version>
+        <junit.platform.version>1.11.0</junit.platform.version>
     </properties>
 
 </project>
