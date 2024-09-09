@@ -83,8 +83,8 @@
 
     <properties>
         <!-- util -->
-        <commons-collections4.version>4.1</commons-collections4.version>
-        <jool.version>0.9.12</jool.version>
+        <commons-collections4.version>4.4</commons-collections4.version>
+        <jool.version>0.9.15</jool.version>
 
         <!-- testing -->
         <assertj.version>3.6.1</assertj.version>
