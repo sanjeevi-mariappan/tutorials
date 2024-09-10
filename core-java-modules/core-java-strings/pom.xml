@@ -56,7 +56,7 @@
 
     <properties>
         <assertj.version>3.6.1</assertj.version>
-        <icu4j.version>61.1</icu4j.version>
+        <icu4j.version>61.2</icu4j.version>
     </properties>
 
 </project>
