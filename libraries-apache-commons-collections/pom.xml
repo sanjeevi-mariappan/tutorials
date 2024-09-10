@@ -32,7 +32,7 @@
     </dependencies>
 
     <properties>
-        <commons.collections.version>4.1</commons.collections.version>
+        <commons.collections.version>4.4</commons.collections.version>
         <assertj.version>3.6.2</assertj.version>
         <org.hamcrest.java-hamcrest.version>2.0.0.0</org.hamcrest.java-hamcrest.version>
     </properties>
