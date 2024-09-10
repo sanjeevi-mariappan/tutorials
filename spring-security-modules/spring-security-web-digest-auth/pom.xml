@@ -193,13 +193,13 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>4.2.20.RELEASE</org.springframework.security.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
 
-        <httpcore.version>4.4.5</httpcore.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <httpcore.version>4.4.16</httpcore.version>
+        <httpclient.version>4.5.14</httpclient.version>
 
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
