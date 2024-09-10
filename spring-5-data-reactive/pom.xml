@@ -217,13 +217,13 @@
     <properties>
         <kotlin.version>1.2.40</kotlin.version>
         <kotlin-maven-plugin.version>1.2.40</kotlin-maven-plugin.version>
-        <spring-tx.version>5.2.2.RELEASE</spring-tx.version>
-        <spring-data-r2dbc.version>1.0.0.RELEASE</spring-data-r2dbc.version>
-        <r2dbc-h2.version>0.8.1.RELEASE</r2dbc-h2.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <spring-tx.version>5.3.39</spring-tx.version>
+        <spring-data-r2dbc.version>1.5.18</spring-data-r2dbc.version>
+        <r2dbc-h2.version>0.9.1.RELEASE</r2dbc-h2.version>
+        <httpclient.version>4.5.14</httpclient.version>
         <h2.version>1.4.200</h2.version>
         <couchbaseMock.version>1.5.23</couchbaseMock.version>
-        <reactor-core.version>3.3.1.RELEASE</reactor-core.version>
+        <reactor-core.version>3.6.9</reactor-core.version>
         <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
     </properties>
 
