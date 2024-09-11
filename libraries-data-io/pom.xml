@@ -64,15 +64,15 @@
     </dependencies>
 
     <properties>
-        <snakeyaml.version>1.21</snakeyaml.version>
-        <kryo.version>4.0.1</kryo.version>
-        <smooks.version>1.7.0</smooks.version>
-        <opencsv.version>4.1</opencsv.version>
-        <google-api.version>1.23.0</google-api.version>
+        <snakeyaml.version>1.33</snakeyaml.version>
+        <kryo.version>4.0.3</kryo.version>
+        <smooks.version>1.7.1</smooks.version>
+        <opencsv.version>4.6</opencsv.version>
+        <google-api.version>1.36.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <org.assertj.core.version>3.9.0</org.assertj.core.version>
-        <docx4j.version>3.3.5</docx4j.version>
-        <jaxb-api.version>2.1</jaxb-api.version>
+        <docx4j.version>3.3.7</docx4j.version>
+        <jaxb-api.version>2.3.1</jaxb-api.version>
     </properties>
 
 </project>
