@@ -25,8 +25,8 @@
     </dependencies>
 
     <properties>
-        <helidon-microprofile.version>0.10.4</helidon-microprofile.version>
-        <jersey-media-json-binding.version>2.26</jersey-media-json-binding.version>
+        <helidon-microprofile.version>0.11.1</helidon-microprofile.version>
+        <jersey-media-json-binding.version>2.44</jersey-media-json-binding.version>
     </properties>
 
 </project>
