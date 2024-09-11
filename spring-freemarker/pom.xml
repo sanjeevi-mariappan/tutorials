@@ -55,8 +55,8 @@
     </dependencies>
 
     <properties>
-        <spring.version>5.0.8.RELEASE</spring.version>
-        <freemarker.version>2.3.28</freemarker.version>
+        <spring.version>5.3.39</spring.version>
+        <freemarker.version>2.3.33</freemarker.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
     </properties>
