@@ -148,8 +148,8 @@
     </build>
 
     <properties>
-        <restx.version>0.35-rc4</restx.version>
-        <logback-classic.version>1.2.3</logback-classic.version>
+        <restx.version>0.35.1</restx.version>
+        <logback-classic.version>1.5.7</logback-classic.version>
     </properties>
 
 </project>
