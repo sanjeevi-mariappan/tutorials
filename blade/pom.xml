@@ -152,10 +152,10 @@
     </build>
 
     <properties>
-        <blade-mvc.version>2.0.14.RELEASE</blade-mvc.version>
-        <bootstrap.version>4.2.1</bootstrap.version>
-        <commons-lang3.version>3.8.1</commons-lang3.version>
-        <lombok.version>1.18.4</lombok.version>
+        <blade-mvc.version>2.0.15.RELEASE</blade-mvc.version>
+        <bootstrap.version>4.6.2</bootstrap.version>
+        <commons-lang3.version>3.16.0</commons-lang3.version>
+        <lombok.version>1.18.34</lombok.version>
         <httpclient.version>4.5.6</httpclient.version>
         <httpmime.version>4.5.6</httpmime.version>
         <httpcore.version>4.4.10</httpcore.version>
