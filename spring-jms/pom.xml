@@ -62,8 +62,8 @@
     </build>
 
     <properties>
-        <springframework.version>4.3.4.RELEASE</springframework.version>
-        <activemq.version>5.14.1</activemq.version>
+        <springframework.version>4.3.30.RELEASE</springframework.version>
+        <activemq.version>5.18.5</activemq.version>
         <spring-boot-test.version>1.5.10.RELEASE</spring-boot-test.version>
     </properties>
 
