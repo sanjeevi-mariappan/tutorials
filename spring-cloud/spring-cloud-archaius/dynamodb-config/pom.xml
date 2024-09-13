@@ -41,9 +41,9 @@
     </dependencies>
 
     <properties>
-        <aws.sdk.dynamo.version>1.11.407</aws.sdk.dynamo.version>
-        <spring.dynamo.version>5.0.3</spring.dynamo.version>
-        <archaius.version>0.7.6</archaius.version>
+        <aws.sdk.dynamo.version>1.12.770</aws.sdk.dynamo.version>
+        <spring.dynamo.version>5.1.0</spring.dynamo.version>
+        <archaius.version>0.7.12</archaius.version>
     </properties>
     
 </project>
