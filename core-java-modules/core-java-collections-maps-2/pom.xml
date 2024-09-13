@@ -60,12 +60,12 @@
     </dependencies>
 
     <properties>
-        <streamex.version>0.6.5</streamex.version>
-        <commons-collections4.version>4.1</commons-collections4.version>
+        <streamex.version>0.8.2</streamex.version>
+        <commons-collections4.version>4.4</commons-collections4.version>
         <avaitility.version>1.7.0</avaitility.version>
-        <eclipse-collections.version>8.2.0</eclipse-collections.version>
-        <hppc.version>0.7.2</hppc.version>
-        <fastutil.version>8.1.0</fastutil.version>
+        <eclipse-collections.version>8.2.1</eclipse-collections.version>
+        <hppc.version>0.10.0</hppc.version>
+        <fastutil.version>8.5.14</fastutil.version>
         <assertj.version>3.11.1</assertj.version>
     </properties>
 
