@@ -45,7 +45,7 @@
     </build>
 
     <properties>
-        <tensorflow.version>1.12.0</tensorflow.version>
+        <tensorflow.version>1.15.0</tensorflow.version>
     </properties>
 
 </project>
