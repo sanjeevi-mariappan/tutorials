@@ -41,7 +41,7 @@
     </dependencies>
 
     <properties>
-        <vavr.version>0.9.1</vavr.version>
+        <vavr.version>0.10.4</vavr.version>
         <awaitility.version>3.0.0</awaitility.version>
     </properties>
 
