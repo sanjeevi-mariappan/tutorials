@@ -95,11 +95,11 @@
     </dependencies>
 
     <properties>
-        <spring.version>5.2.0.RELEASE</spring.version>
-        <spring.batch.version>4.2.0.RELEASE</spring.batch.version>
-        <sqlite.version>3.15.1</sqlite.version>
-        <opencsv.version>4.1</opencsv.version>
-        <jaxb.version>2.3.1</jaxb.version>
+        <spring.version>5.3.39</spring.version>
+        <spring.batch.version>4.3.10</spring.batch.version>
+        <sqlite.version>3.46.1.0</sqlite.version>
+        <opencsv.version>4.6</opencsv.version>
+        <jaxb.version>2.3.9</jaxb.version>
         <awaitility.version>3.1.1</awaitility.version>
     </properties>
 
