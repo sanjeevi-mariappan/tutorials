@@ -125,16 +125,16 @@
     </build>
 
     <properties>
-        <vraptor.version>4.2.0.Final</vraptor.version>
-        <weld.version>2.1.2.Final</weld.version>
+        <vraptor.version>4.2.2</vraptor.version>
+        <weld.version>2.4.8.Final</weld.version>
         <el.version>2.2</el.version>
-        <hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
-        <slf4j-log4j12.version>1.7.5</slf4j-log4j12.version>
+        <hibernate-validator.version>5.4.3.Final</hibernate-validator.version>
+        <slf4j-log4j12.version>1.7.36</slf4j-log4j12.version>
         <vraptor-freemarker.version>4.1.0-RC3</vraptor-freemarker.version>
-        <vraptor-hibernate.version>4.0.4</vraptor-hibernate.version>
-        <mysql-connector.version>8.0.8-dmr</mysql-connector.version>
+        <vraptor-hibernate.version>4.1.0</vraptor-hibernate.version>
+        <mysql-connector.version>8.0.33</mysql-connector.version>
         <jbcrypt.version>0.4</jbcrypt.version>
-        <freemarker.version>2.3.27-incubating</freemarker.version>
+        <freemarker.version>2.3.33</freemarker.version>
         <tomcat7-maven-plugin.version>2.1</tomcat7-maven-plugin.version>
     </properties>
 
