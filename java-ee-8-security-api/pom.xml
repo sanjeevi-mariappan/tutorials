@@ -66,7 +66,7 @@
     <properties>
         <defaultHttpPort>9080</defaultHttpPort>
         <defaultHttpsPort>9443</defaultHttpsPort>
-        <javaee-version>8.0</javaee-version>
+        <javaee-version>8.0.1</javaee-version>
         <liberty-maven-plugin.version>2.3</liberty-maven-plugin.version>
         <openliberty-runtime.version>18.0.0.1</openliberty-runtime.version>
     </properties>
