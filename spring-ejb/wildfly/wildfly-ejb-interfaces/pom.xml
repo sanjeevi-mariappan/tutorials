@@ -28,7 +28,7 @@
     </dependencies>
 
     <properties>
-        <javax.ejb-api.version>3.2</javax.ejb-api.version>
+        <javax.ejb-api.version>3.2.2</javax.ejb-api.version>
     </properties>
 
 </project>
