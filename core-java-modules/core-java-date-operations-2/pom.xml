@@ -40,7 +40,7 @@
     </dependencies>
 
     <properties>
-        <joda-time.version>2.10</joda-time.version>
+        <joda-time.version>2.12.7</joda-time.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
         <assertj.version>3.14.0</assertj.version>
     </properties>
