@@ -257,7 +257,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -276,7 +276,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -1461,8 +1461,8 @@
         <byte-buddy.version>1.10.5</byte-buddy.version>
 
         <!-- logging -->
-        <org.slf4j.version>1.7.30</org.slf4j.version>
-        <logback.version>1.2.3</logback.version>
+        <org.slf4j.version>1.7.36</org.slf4j.version>
+        <logback.version>1.5.7</logback.version>
 
         <!-- plugins -->
         <!-- can't upgrade the plugin yet; as there is an issue with 2.22 no longer running all the tests-->
@@ -1474,7 +1474,7 @@
         <moneta.version>1.1</moneta.version>
         <esapi.version>2.1.0.1</esapi.version>
         <jmh-core.version>1.19</jmh-core.version>
-        <jmh-generator.version>1.19</jmh-generator.version>
+        <jmh-generator.version>1.37</jmh-generator.version>
         <exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
         <maven-failsafe-plugin.version>2.21.0</maven-failsafe-plugin.version>
         <commons-io.version>2.5</commons-io.version>
