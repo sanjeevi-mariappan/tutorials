@@ -37,7 +37,7 @@
 
     <properties>
         <assertj.version>3.6.1</assertj.version>
-        <jol-core.version>0.10</jol-core.version>
+        <jol-core.version>0.17</jol-core.version>
     </properties>
 
 </project>
