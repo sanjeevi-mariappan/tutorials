@@ -147,7 +147,7 @@
     <properties>
 
         <!-- Spring -->
-        <org.springframework.version>5.0.2.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.39</org.springframework.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
 
         <!-- persistence -->
@@ -158,18 +158,18 @@
         <httpclient.version>4.5.2</httpclient.version>
 
         <!-- various -->
-        <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.2.5.Final</hibernate-validator.version>
         <javax.el.version>3.0.1-b08</javax.el.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
-        <geoip2.version>2.8.0</geoip2.version>
+        <geoip2.version>2.17.0</geoip2.version>
 
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
 
         <crash.version>1.3.2</crash.version>
-        <groovy.version>3.0.0-rc-3</groovy.version>
+        <groovy.version>3.0.22</groovy.version>
 
     </properties>
 
