@@ -39,8 +39,8 @@
     </build>
 
     <properties>
-        <mysql.connector.version>5.1.44</mysql.connector.version>
-        <cayenne.version>4.0.M5</cayenne.version>
+        <mysql.connector.version>5.1.49</mysql.connector.version>
+        <cayenne.version>4.2.1</cayenne.version>
     </properties>
 
 </project>
