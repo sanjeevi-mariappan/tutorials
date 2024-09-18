@@ -31,8 +31,8 @@
     </dependencies>
 
     <properties>
-        <hsqldb.version>2.4.0</hsqldb.version>
-        <jaxb.version>2.3.0</jaxb.version>
+        <hsqldb.version>2.7.3</hsqldb.version>
+        <jaxb.version>2.3.1</jaxb.version>
     </properties>
 
 </project>
