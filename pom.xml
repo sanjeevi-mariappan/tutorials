@@ -257,7 +257,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -276,7 +276,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -1461,8 +1461,8 @@
         <byte-buddy.version>1.10.5</byte-buddy.version>
 
         <!-- logging -->
-        <org.slf4j.version>1.7.30</org.slf4j.version>
-        <logback.version>1.2.3</logback.version>
+        <org.slf4j.version>1.7.36</org.slf4j.version>
+        <logback.version>1.5.7</logback.version>
 
         <!-- plugins -->
         <!-- can't upgrade the plugin yet; as there is an issue with 2.22 no longer running all the tests-->
@@ -1477,9 +1477,9 @@
         <jmh-generator.version>1.19</jmh-generator.version>
         <exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
         <maven-failsafe-plugin.version>2.21.0</maven-failsafe-plugin.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.16.1</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.16.0</commons-lang3.version>
         <commons-cli.version>1.4</commons-cli.version>
         <maven-war-plugin.version>3.0.0</maven-war-plugin.version>
         <javax.servlet-api.version>3.1.0</javax.servlet-api.version>
@@ -1487,7 +1487,7 @@
         <javax.servlet.jsp-api.version>2.3.1</javax.servlet.jsp-api.version>
         <jackson-mapper-asl.version>1.9.13</jackson-mapper-asl.version>
         <jstl.version>1.2</jstl.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.17.2</jackson.version>
         <commons-fileupload.version>1.3</commons-fileupload.version>
         <junit-platform.version>1.2.0</junit-platform.version>
         <junit-jupiter.version>5.2.0</junit-jupiter.version>
