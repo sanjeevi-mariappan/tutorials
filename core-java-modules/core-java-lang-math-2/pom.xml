@@ -77,13 +77,13 @@
     <properties>
         <commons-math3.version>3.6.1</commons-math3.version>
         <org.assertj.core.version>3.9.0</org.assertj.core.version>
-        <guava.version>27.0.1-jre</guava.version>
-        <combinatoricslib3.version>3.3.0</combinatoricslib3.version>
-        <ejml.version>0.38</ejml.version>
+        <guava.version>27.1-jre</guava.version>
+        <combinatoricslib3.version>3.4.0</combinatoricslib3.version>
+        <ejml.version>0.43.1</ejml.version>
         <nd4j.version>1.0.0-beta4</nd4j.version>
         <colt.version>1.2.0</colt.version>
         <la4j.version>0.6.0</la4j.version>
-        <jmh.version>1.19</jmh.version>
+        <jmh.version>1.37</jmh.version>
     </properties>
 
 </project>
