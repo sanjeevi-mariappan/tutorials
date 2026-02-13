@@ -97,7 +97,7 @@
 
         <!-- utilities -->
         <guava.version>21.0</guava.version>
-        <byte-buddy.version>1.10.16</byte-buddy.version>
+        <byte-buddy.version>1.18.4</byte-buddy.version>
     </properties>
 
 </project>
